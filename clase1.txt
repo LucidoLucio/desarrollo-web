@@ -1,0 +1,4 @@
+<!-- ctrl k+ctrl c -->
+    <h1>HOlalococo</h1> <!--comentarios-->
+    <h2>coder</h2>
+    <p>Lorem ipsum dolor. <br><!--salto de linea--> Illum unde quos quae commodi ducimus fugit a reiciendis excepturi? Eligendi vitae veritatis impedit voluptatem. Quaerat, perferendis?</p>
